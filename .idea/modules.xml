@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-9000/cloud-consumer-9000.iml" filepath="$PROJECT_DIR$/cloud-consumer-9000/cloud-consumer-9000.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-histrix-dashboard/cloud-consumer-histrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-consumer-histrix-dashboard/cloud-consumer-histrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" filepath="$PROJECT_DIR$/cloud-consumer-order80/cloud-consumer-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/cloud-eureka-server7001/cloud-eureka-server7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider8002/cloud-provider8002.iml" filepath="$PROJECT_DIR$/cloud-provider8002/cloud-provider8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_provider8001/cloud_provider8001.iml" filepath="$PROJECT_DIR$/cloud_provider8001/cloud_provider8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+server:
+  port: 9001
+
+spring:
+  application:
+    name: consumer-histrix-dashboard
+eureka:
+  instance:
+    instance-id: consumer9001
+    prefer-ip-address: true
+  client:
+    register-with-eureka: true #表示向注册中心注册自己
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:7001/eureka/ #注册中心的地址
+  feign:
+    hystrix:
+      enabled: true #开启hystrix熔断
