@@ -11,3 +11,9 @@ spring:
           uri: https://github.com/min-sl/spring-cloud-config-repository #git仓库地址
           username: msl1395323284@163.com   #账号
           password: msl19980303    #密码
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka/
+  instance:
+    instance-id: cloud-config-server
