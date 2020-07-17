@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/cloud-api-commons/cloud-api-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" filepath="$PROJECT_DIR$/cloud-config-client/cloud-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-9000/cloud-consumer-9000.iml" filepath="$PROJECT_DIR$/cloud-consumer-9000/cloud-consumer-9000.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer-histrix-dashboard/cloud-consumer-histrix-dashboard.iml" filepath="$PROJECT_DIR$/cloud-consumer-histrix-dashboard/cloud-consumer-histrix-dashboard.iml" />
