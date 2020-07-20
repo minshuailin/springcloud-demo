@@ -9,8 +9,8 @@ spring:
       server:
         git:
           uri: https://github.com/min-sl/spring-cloud-config-repository #git仓库地址
-          username:   #账号
-          password:    #密码
+          username:  #账号
+          password: #密码
   rabbitmq:
     host: localhost
     port: 5672

@@ -8,15 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-consumer-histrix-dashboard" />
-        <module name="cloud-api-commons" />
-        <module name="cloud-eureka-server7001" />
         <module name="cloud-config-bus-client" />
+        <module name="cloud-eureka-server7001" />
+        <module name="cloud-gateway-zuul" />
         <module name="cloud-config-server" />
+        <module name="cloud-consumer-9000" />
         <module name="cloud-config-client" />
         <module name="cloud-consumer-order80" />
         <module name="cloud-provider8002" />
         <module name="cloud_provider8001" />
-        <module name="cloud-consumer-9000" />
+        <module name="cloud-api-commons" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -28,6 +29,7 @@
       <module name="cloud-consumer-histrix-dashboard" target="1.8" />
       <module name="cloud-consumer-order80" target="1.8" />
       <module name="cloud-eureka-server7001" target="1.8" />
+      <module name="cloud-gateway-zuul" target="1.8" />
       <module name="cloud-provider-payment8001" target="1.8" />
       <module name="cloud-provider-payment8002" target="1.8" />
       <module name="cloud-provider8002" target="1.8" />

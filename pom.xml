@@ -20,6 +20,7 @@
         <module>cloud-config-server</module>
         <module>cloud-config-client</module>
         <module>cloud-config-bus-client</module>
+        <module>cloud-gateway-zuul</module>
     </modules>
 
     <properties>
